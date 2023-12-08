@@ -1,0 +1,9 @@
+{
+    "name": "sajjad/validations",
+    "autoload": {
+        "psr-4": {
+            "SajjadValidation\\" : "src/"
+        }
+    },
+    "require": {}
+}
